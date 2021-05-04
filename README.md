@@ -1,0 +1,2 @@
+# AlgoritmoGenetico
+Algoritmo Genetico Fit
